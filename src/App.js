@@ -1,10 +1,8 @@
-import Login from "./screens/Login/Login"
-
 const App = () => {
 
   return (
     <div>
-      <Login />
+      hi
     </div>
   )
 }
