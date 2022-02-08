@@ -1,13 +1,10 @@
-import React from 'react'
-import Layout from './components/Layout/Layout'
-import BurgerBuilder from './screens/BurgerBuilder/BurgerBuilder'
+import Login from "./screens/Login/Login"
 
 const App = () => {
+
   return (
     <div>
-      <Layout>
-        <BurgerBuilder />
-      </Layout>
+      <Login />
     </div>
   )
 }

@@ -1,0 +1,11 @@
+.Button {
+    background-color: var(--accent-color);
+    text-transform: uppercase;
+    padding: 0.7rem;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 500;
+    border-radius: 4px;
+    margin: 0.7rem 0;
+    text-align: center;
+}

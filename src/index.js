@@ -3,10 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
-ReactDOM.render(
+const app =  (
   <React.StrictMode>
     <App />
-  </React.StrictMode>,
+  </React.StrictMode>
+
+)
+
+ReactDOM.render(
+  app,
   document.getElementById('root')
 );
 
